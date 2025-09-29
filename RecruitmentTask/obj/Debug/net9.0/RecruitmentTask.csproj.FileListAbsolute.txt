@@ -1,0 +1,15 @@
+c:\Users\jakub\OneDrive\Pulpit\RecruitmentTask\RecruitmentTask\bin\Debug\net9.0\RecruitmentTask.exe
+c:\Users\jakub\OneDrive\Pulpit\RecruitmentTask\RecruitmentTask\bin\Debug\net9.0\RecruitmentTask.deps.json
+c:\Users\jakub\OneDrive\Pulpit\RecruitmentTask\RecruitmentTask\bin\Debug\net9.0\RecruitmentTask.runtimeconfig.json
+c:\Users\jakub\OneDrive\Pulpit\RecruitmentTask\RecruitmentTask\bin\Debug\net9.0\RecruitmentTask.dll
+c:\Users\jakub\OneDrive\Pulpit\RecruitmentTask\RecruitmentTask\bin\Debug\net9.0\RecruitmentTask.pdb
+c:\Users\jakub\OneDrive\Pulpit\RecruitmentTask\RecruitmentTask\obj\Debug\net9.0\RecruitmentTask.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\jakub\OneDrive\Pulpit\RecruitmentTask\RecruitmentTask\obj\Debug\net9.0\RecruitmentTask.AssemblyInfoInputs.cache
+c:\Users\jakub\OneDrive\Pulpit\RecruitmentTask\RecruitmentTask\obj\Debug\net9.0\RecruitmentTask.AssemblyInfo.cs
+c:\Users\jakub\OneDrive\Pulpit\RecruitmentTask\RecruitmentTask\obj\Debug\net9.0\RecruitmentTask.csproj.CoreCompileInputs.cache
+c:\Users\jakub\OneDrive\Pulpit\RecruitmentTask\RecruitmentTask\obj\Debug\net9.0\RecruitmentTask.dll
+c:\Users\jakub\OneDrive\Pulpit\RecruitmentTask\RecruitmentTask\obj\Debug\net9.0\refint\RecruitmentTask.dll
+c:\Users\jakub\OneDrive\Pulpit\RecruitmentTask\RecruitmentTask\obj\Debug\net9.0\RecruitmentTask.pdb
+c:\Users\jakub\OneDrive\Pulpit\RecruitmentTask\RecruitmentTask\obj\Debug\net9.0\RecruitmentTask.genruntimeconfig.cache
+c:\Users\jakub\OneDrive\Pulpit\RecruitmentTask\RecruitmentTask\obj\Debug\net9.0\ref\RecruitmentTask.dll
+C:\Users\jakub\OneDrive\Pulpit\RecruitmentTask\RecruitmentTask\obj\Debug\net9.0\RecruitmentTask.csproj.AssemblyReference.cache
