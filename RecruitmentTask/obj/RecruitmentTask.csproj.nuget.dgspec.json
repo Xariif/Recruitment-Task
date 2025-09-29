@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jakub\\OneDrive\\Pulpit\\RecruitmentTask\\RecruitmentTask\\RecruitmentTask.csproj": {}
+    "c:\\Users\\jakub\\OneDrive\\Pulpit\\RecruitmentTask\\Recruitment-Task\\RecruitmentTask\\RecruitmentTask.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jakub\\OneDrive\\Pulpit\\RecruitmentTask\\RecruitmentTask\\RecruitmentTask.csproj": {
+    "c:\\Users\\jakub\\OneDrive\\Pulpit\\RecruitmentTask\\Recruitment-Task\\RecruitmentTask\\RecruitmentTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jakub\\OneDrive\\Pulpit\\RecruitmentTask\\RecruitmentTask\\RecruitmentTask.csproj",
+        "projectUniqueName": "c:\\Users\\jakub\\OneDrive\\Pulpit\\RecruitmentTask\\Recruitment-Task\\RecruitmentTask\\RecruitmentTask.csproj",
         "projectName": "RecruitmentTask",
-        "projectPath": "C:\\Users\\jakub\\OneDrive\\Pulpit\\RecruitmentTask\\RecruitmentTask\\RecruitmentTask.csproj",
+        "projectPath": "c:\\Users\\jakub\\OneDrive\\Pulpit\\RecruitmentTask\\Recruitment-Task\\RecruitmentTask\\RecruitmentTask.csproj",
         "packagesPath": "C:\\Users\\jakub\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jakub\\OneDrive\\Pulpit\\RecruitmentTask\\RecruitmentTask\\obj\\",
+        "outputPath": "c:\\Users\\jakub\\OneDrive\\Pulpit\\RecruitmentTask\\Recruitment-Task\\RecruitmentTask\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

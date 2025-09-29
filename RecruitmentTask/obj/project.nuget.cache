@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mct0+xVm8S4=",
+  "dgSpecHash": "8Xy44jiU+Ag=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jakub\\OneDrive\\Pulpit\\RecruitmentTask\\RecruitmentTask\\RecruitmentTask.csproj",
+  "projectFilePath": "c:\\Users\\jakub\\OneDrive\\Pulpit\\RecruitmentTask\\Recruitment-Task\\RecruitmentTask\\RecruitmentTask.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jakub\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\jakub\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
